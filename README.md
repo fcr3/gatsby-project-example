@@ -1,3 +1,23 @@
+# Project: Gatsby Example Website
+
+## Info:
+Based off of the tutorial featured on Udemy, this is an example website showcasing the capabilities of gatsby.
+
+Images are included in the src as reference, but most of my content is stored on the headless CMS Contentful. I also use Netlify to host this project because it's free and Github user friendly!
+
+The tours website includes multiple pages, and within those pages, there are mini components that feature some of the best things about Gatsby.js.
+
+## Features:
+1. Easy page creation
+2. React experience friendly
+3. Easy implementation with Gatsby plugins
+4. Multiple ways to render web pages via data stored on the cloud, i.e. you can either store data as json (expected) or rich text (unexpectedly easy)
+
+## TL;DR:
+Use gatsby for quick development of static websites. Maybe use something else if you want something more application-like. Use this repository as a way to start!
+
+_____________________________________
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
